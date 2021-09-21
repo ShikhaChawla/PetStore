@@ -1,6 +1,10 @@
-Pet Store 
+# **Pet Store**
 
-The project is done using .Net and C# and is created as a console application.
+This project prints the list of available pets sorted in Categories and displayed in reverse order by pet names.
+
+The project is done using **.Net and C#** and is created as a console application.
+
+### Working
 
 It uses the sample API https://petstore.swagger.io/v2/pet/findByStatus?status=available to get a list of available pets from the Pet Store.
 
@@ -21,4 +25,4 @@ printTheOutput function prints the list of available pets under the category in 
 unitTest function asks the user to enter any category name from the above displayed output (entered category is case sensitive), the test case gives all the 
 avaliable pets for that category, which should be same as the above list output in the console, if it is same then the test is successfull.
   
-The output of this project is the list of available pets sorted in Categories and displayed in reverse order by pet names.
+
