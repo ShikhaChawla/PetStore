@@ -22,3 +22,5 @@ printTheOutput function prints the list of available pets under the category in 
 
 unitTest function asks the user to enter any category name from the above displayed output (entered category is case sensitive), the output gives all the 
 avaliable pets for that category, which should be same as the above list output in the console, if it is same then the test is successfull.
+  
+The output of this project is the list of available pets sorted in Categories and displayed in reverse order by pet names.
